@@ -1,13 +1,12 @@
 import "./App.css";
 import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
 import MainSection from "./components/MainSection";
 
 function App() {
   return (
     <>
+      <h1>Hello React Router!</h1>
       <div id="container">
-        <Navbar />
         <MainSection />
       </div>
       <div id="container">
