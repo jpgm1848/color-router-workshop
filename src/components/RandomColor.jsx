@@ -5,7 +5,7 @@ function RandomColor() {
     return (
       <>
         <div className="red">
-          <h1>RED</h1>
+          <h1>Random Red</h1>
         </div>
       </>
     );
@@ -13,7 +13,7 @@ function RandomColor() {
     return (
       <>
         <div className="blue">
-          <h1>Blue</h1>
+          <h1>Random Blue</h1>
         </div>
       </>
     );
